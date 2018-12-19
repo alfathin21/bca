@@ -1,0 +1,24 @@
+body{
+	background: url('img/bg1.jpg');
+	background-size:cover;
+}
+.text{
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.9);
+	color: white;
+}
+.logo{
+	width:110px;
+	height: auto;
+	filter: drop-shadow(1px 1px 1px rgb(0,0,0,0.8));
+}
+.jarak{
+	padding-bottom: 120px;
+}
+.btn{
+	width: 250px;
+	filter: drop-shadow(1px 1px 1px rgb(0,0,0,0.8));
+}
+.garis{	
+	border: 2px dotted gray;
+	
+}
